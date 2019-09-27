@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFX.MicroServices.Roadway.Data", "CFX.MicroServices.Roadway.Data\CFX.MicroServices.Roadway.Data.csproj", "{465B099B-1D6E-4F82-9B28-387A715E8D2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{465B099B-1D6E-4F82-9B28-387A715E8D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465B099B-1D6E-4F82-9B28-387A715E8D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465B099B-1D6E-4F82-9B28-387A715E8D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465B099B-1D6E-4F82-9B28-387A715E8D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {074961DC-0CBF-43B0-980F-16BB7C941D8A}
+	EndGlobalSection
+EndGlobal
